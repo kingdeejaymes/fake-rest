@@ -7,5 +7,31 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "basketball_players": [
+      {
+          "name": "Lebron James",
+          "position": "Small Forward",
+          "jersey_number": 23,
+          "monicker": "King James"
+      },
+      {
+        "name": "Michael Jordan",
+        "position": "Shooting Guard",
+        "jersey_number": 23,
+        "monicker": "GOAT"
+    },
+    {
+        "name": "Kobe Bryant",
+        "position": "Shooting Guard",
+        "jersey_number": 24,
+        "monicker": "Black Mamba"
+    },
+    {
+        "name": "Kevin Durant",
+        "position": "Power Forward",
+        "jersey_number": 35,
+        "monicker": "Snake"
+    }
+  ]
 }
